@@ -1,9 +1,9 @@
 {
-    "resetFormOnClick": true,
+    "resetFormOnClick": false,
     "boxShadow": "none",
     "mobileBottomRow": 37,
     "widgetName": "Button1",
-    "onClick": "{{get_student_by_id.run()}}{{my_studygroups.run()}}",
+    "onClick": "{{get_student_by_id.run()}}{{my_studygroups.run()}} {{my_oh.data}}",
     "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
     "dynamicPropertyPathList": [{"key": "onClick"}],
     "displayName": "Button",
