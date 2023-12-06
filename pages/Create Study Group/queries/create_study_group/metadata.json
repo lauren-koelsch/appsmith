@@ -29,7 +29,7 @@
       ],
       "encodeParamsToggle": true,
       "queryParameters": [],
-      "body": "{\n    \"Capacity\": {{Capacity}},\n    \"CourseCode\": {{CourseCode}},\n    \"Description\": {{Description}},\n    \"End_Time\": {{EndTime}},\n    \"Start_Time\": {{StartTime}},\n    \"StudentID\": {{StudID}}\n }",
+      "body": "{\n    \"Capacity\": {{Capacity}},\n    \"CourseCode\": {{CourseCode.text}},\n    \"Description\": {{Description.text}},\n    \"End_Time\": {{EndTime.text}},\n    \"Start_Time\": {{StartTime.text}},\n    \"StudentID\": {{StudID.text}}\n }",
       "bodyFormData": [],
       "httpMethod": "POST",
       "selfReferencingDataPaths": [],
@@ -53,11 +53,11 @@
     "messages": [],
     "jsonPathKeys": [
       "Capacity",
-      "CourseCode",
-      "Description",
-      "EndTime",
-      "StartTime",
-      "StudID"
+      "CourseCode.text",
+      "Description.text",
+      "EndTime.text",
+      "StartTime.text",
+      "StudID.text"
     ],
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
