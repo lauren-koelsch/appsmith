@@ -7,8 +7,8 @@
     "displayName": "Form",
     "iconSVG": "/static/media/icon.e17c486a34778f3bae299c9110e00cf6.svg",
     "searchTags": ["group"],
-    "topRow": 3,
-    "bottomRow": 21,
+    "topRow": 2,
+    "bottomRow": 20,
     "parentRowSpace": 10,
     "type": "FORM_WIDGET",
     "hideCard": false,
@@ -17,7 +17,7 @@
     "animateLoading": true,
     "parentColumnSpace": 11.796875,
     "dynamicTriggerPathList": [],
-    "leftColumn": 3,
+    "leftColumn": 1,
     "dynamicBindingPathList": [
         {"key": "borderRadius"},
         {"key": "boxShadow"}
@@ -68,7 +68,7 @@
     "key": "jztqbeqgss",
     "backgroundColor": "#FFFFFF",
     "isDeprecated": false,
-    "rightColumn": 37,
+    "rightColumn": 35,
     "dynamicHeight": "FIXED",
     "widgetId": "fbe6ebj9jn",
     "minWidth": 450,

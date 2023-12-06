@@ -1,6 +1,6 @@
 {
     "mobileBottomRow": 26,
-    "widgetName": "Text4Copy",
+    "widgetName": "Text4CopyCopy",
     "displayName": "Text",
     "iconSVG": "/static/media/icon.a47d6d5dbbb718c4dc4b2eb4f218c1b7.svg",
     "searchTags": [
@@ -19,7 +19,7 @@
     "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
     "parentColumnSpace": 11.796875,
     "dynamicTriggerPathList": [],
-    "leftColumn": 1,
+    "leftColumn": 18,
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "fontFamily"},
@@ -28,13 +28,13 @@
     ],
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-    "text": "{{TA_table.selectedRow.FirstName}}'s Classes!",
+    "text": "{{TA_table.selectedRow.FirstName}}'s Office Hour Schedule",
     "key": "ftt19l6yv8",
     "isDeprecated": false,
-    "rightColumn": 17,
+    "rightColumn": 34,
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
-    "widgetId": "onqcub3kx8",
+    "widgetId": "12mdx5tty9",
     "minWidth": 450,
     "isVisible": true,
     "fontStyle": "BOLD",
