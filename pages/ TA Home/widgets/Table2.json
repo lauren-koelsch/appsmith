@@ -60,7 +60,7 @@
         }
     },
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-    "columnUpdatedAt": 1701890240151,
+    "columnUpdatedAt": 1701900180828,
     "originalBottomRow": 77,
     "defaultSelectedRowIndices": [0],
     "mobileBottomRow": 77,
@@ -248,7 +248,7 @@
     "textSize": "0.875rem",
     "widgetId": "cxfupezfkj",
     "minWidth": 450,
-    "tableData": "{{get_all_oh.data}}",
+    "tableData": "{{get_all_oh_for_ta.data}}",
     "label": "Data",
     "searchKey": "",
     "parentId": "0",

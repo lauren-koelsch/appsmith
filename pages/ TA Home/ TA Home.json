@@ -28,15 +28,15 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": " TA Home_get_all_oh",
-              "name": "get_all_oh",
+              "id": " TA Home_get_all_oh_for_ta",
+              "name": "get_all_oh_for_ta",
               "confirmBeforeExecute": false,
               "pluginType": "API",
-              "jsonPathKeys": [],
+              "jsonPathKeys": [
+                "TAID.text"
+              ],
               "timeoutInMillisecond": 10000
-            }
-          ],
-          [
+            },
             {
               "id": " TA Home_get_my_classes",
               "name": "get_my_classes",

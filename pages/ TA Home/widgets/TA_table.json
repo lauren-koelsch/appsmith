@@ -59,7 +59,7 @@
         }
     },
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-    "columnUpdatedAt": 1701888912793,
+    "columnUpdatedAt": 1701900193210,
     "originalBottomRow": 39,
     "defaultSelectedRowIndices": [0],
     "mobileBottomRow": 54,
@@ -224,7 +224,7 @@
             "allowCellWrapping": false,
             "index": 4,
             "isDiscardVisible": true,
-            "isVisible": true,
+            "isVisible": false,
             "label": "TAID",
             "columnType": "number",
             "thousandSeparator": true,

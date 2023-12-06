@@ -56,7 +56,7 @@
         }
     },
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-    "columnUpdatedAt": 1701887851748,
+    "columnUpdatedAt": 1701900185666,
     "originalBottomRow": 76,
     "defaultSelectedRowIndices": [0],
     "mobileBottomRow": 57,
@@ -94,7 +94,7 @@
             "allowCellWrapping": false,
             "index": 1,
             "isDiscardVisible": true,
-            "isVisible": true,
+            "isVisible": false,
             "label": "TA_ID",
             "fontStyle": "",
             "textColor": "",
