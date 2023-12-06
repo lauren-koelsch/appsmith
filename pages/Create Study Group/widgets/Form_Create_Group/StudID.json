@@ -13,7 +13,7 @@
         {"key": "borderRadius"}
     ],
     "labelStyle": "",
-    "inputType": "TEXT",
+    "inputType": "NUMBER",
     "isDisabled": false,
     "isRequired": false,
     "dynamicHeight": "FIXED",
@@ -60,6 +60,7 @@
     "originalTopRow": 24,
     "mobileLeftColumn": 2,
     "maxDynamicHeight": 9000,
+    "shouldAllowAutofill": false,
     "iconAlign": "left",
     "defaultText": "",
     "minDynamicHeight": 4
