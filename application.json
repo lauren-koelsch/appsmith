@@ -19,6 +19,10 @@
     {
       "id": "Student Home",
       "isDefault": false
+    },
+    {
+      "id": " TA Home",
+      "isDefault": false
     }
   ],
   "viewMode": false,
