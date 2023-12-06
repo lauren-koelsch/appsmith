@@ -3,7 +3,7 @@
     "boxShadow": "none",
     "mobileBottomRow": 37,
     "widgetName": "Button1",
-    "onClick": "{{get_student_by_id.run()}}{{my_studygroups.run()}} {{my_oh.data}}",
+    "onClick": "{{(() => {\n\tget_student_by_id.run();\n\tmy_oh.run();\n\tmy_studygroups.run();\n})()}}",
     "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
     "dynamicPropertyPathList": [{"key": "onClick"}],
     "displayName": "Button",

@@ -3,7 +3,7 @@
     "boxShadow": "none",
     "mobileBottomRow": 37,
     "widgetName": "Button1",
-    "onClick": "{{get_my_classes.run()}} / {{get_ta.run()}}",
+    "onClick": "{{(() => {\n\tget_my_classes.run();\n\tget_all_oh_for_ta.run();\n\tget_ta.run();\n})()}}",
     "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
     "dynamicPropertyPathList": [{"key": "onClick"}],
     "displayName": "Button",
