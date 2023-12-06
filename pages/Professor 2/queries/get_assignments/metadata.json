@@ -44,8 +44,7 @@
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],
-    "userPermissions": [],
-    "createdAt": "2023-12-06T01:29:21Z"
+    "userPermissions": []
   },
   "id": "Professor 2_get_assignments",
   "deleted": false,
