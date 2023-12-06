@@ -1,9 +1,9 @@
 {
-    "resetFormOnClick": true,
+    "resetFormOnClick": false,
     "boxShadow": "none",
     "mobileBottomRow": 37,
     "widgetName": "Button1",
-    "onClick": "{{get_my_classes.run()}}",
+    "onClick": "{{get_my_classes.run()}} / {{get_ta.run()}}",
     "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
     "dynamicPropertyPathList": [{"key": "onClick"}],
     "displayName": "Button",

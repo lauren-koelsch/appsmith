@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 840,
+          "bottomRow": 830,
           "containerStyle": "none",
           "snapRows": 54,
           "parentRowSpace": 1,
@@ -30,6 +30,16 @@
             {
               "id": " TA Home_get_my_classes",
               "name": "get_my_classes",
+              "confirmBeforeExecute": false,
+              "pluginType": "API",
+              "jsonPathKeys": [
+                "TAID.text"
+              ],
+              "timeoutInMillisecond": 10000
+            },
+            {
+              "id": " TA Home_get_ta",
+              "name": "get_ta",
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [
