@@ -1,0 +1,8 @@
+{
+    "Capacity": {{Capacity}},
+    "CourseCode": {{CourseCode}},
+    "Description": {{Description}},
+    "End_Time": {{EndTime}},
+    "Start_Time": {{StartTime}},
+    "StudentID": {{StudID}}
+ }
