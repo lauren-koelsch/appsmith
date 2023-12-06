@@ -15,12 +15,19 @@
     {
       "id": "Professor 1",
       "isDefault": false
+    },
+    {
+      "id": "Student Home",
+      "isDefault": false
     }
   ],
   "viewMode": false,
   "appIsExample": false,
   "unreadCommentThreads": 0,
   "color": "#FFEFDB",
+  "unpublishedAppLayout": {
+    "type": "FLUID"
+  },
   "unpublishedCustomJSLibs": [],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
