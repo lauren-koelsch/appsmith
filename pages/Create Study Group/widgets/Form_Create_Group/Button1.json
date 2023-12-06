@@ -1,5 +1,5 @@
 {
-    "resetFormOnClick": true,
+    "resetFormOnClick": false,
     "boxShadow": "none",
     "mobileBottomRow": 37,
     "widgetName": "Button1",
@@ -41,11 +41,11 @@
     "isLoading": false,
     "mobileTopRow": 33,
     "responsiveBehavior": "hug",
-    "originalTopRow": 27,
+    "originalTopRow": 32,
     "disabledWhenInvalid": true,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 46,
-    "originalBottomRow": 31,
+    "originalBottomRow": 36,
     "buttonVariant": "PRIMARY",
     "placement": "CENTER"
 }

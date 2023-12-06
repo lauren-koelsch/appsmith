@@ -1,8 +1,8 @@
 {
     "Capacity": {{Capacity}},
-    "CourseCode": {{CourseCode}},
-    "Description": {{Description}},
-    "End_Time": {{EndTime}},
-    "Start_Time": {{StartTime}},
-    "StudentID": {{StudID}}
+    "CourseCode": {{CourseCode.text}},
+    "Description": {{Description.text}},
+    "End_Time": {{EndTime.text}},
+    "Start_Time": {{StartTime.text}},
+    "StudentID": {{StudID.text}}
  }
