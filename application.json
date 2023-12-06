@@ -19,10 +19,6 @@
     {
       "id": "Create Study Group",
       "isDefault": false
-    },
-    {
-      "id": "TA Home",
-      "isDefault": false
     }
   ],
   "viewMode": false,
