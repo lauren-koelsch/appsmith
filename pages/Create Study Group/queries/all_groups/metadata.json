@@ -45,8 +45,7 @@
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],
-    "userPermissions": [],
-    "createdAt": "2023-12-06T18:32:48Z"
+    "userPermissions": []
   },
   "id": "Create Study Group_all_groups",
   "deleted": false,
