@@ -60,7 +60,7 @@
     },
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "columnUpdatedAt": 1701900512235,
-    "originalBottomRow": 58,
+    "originalBottomRow": 55,
     "defaultSelectedRowIndices": [0],
     "mobileBottomRow": 64,
     "widgetName": "student_table",
@@ -255,7 +255,7 @@
     "horizontalAlignment": "LEFT",
     "isVisibleSearch": true,
     "responsiveBehavior": "fill",
-    "originalTopRow": 45,
+    "originalTopRow": 42,
     "mobileLeftColumn": 0,
     "isVisiblePagination": true,
     "verticalAlignment": "CENTER"

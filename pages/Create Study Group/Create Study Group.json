@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Student Home",
-    "slug": "student-home",
+    "name": "Create Study Group",
+    "slug": "create-study-group",
     "layouts": [
       {
         "viewMode": false,
@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 1610,
+          "bottomRow": 870,
           "containerStyle": "none",
           "snapRows": 54,
           "parentRowSpace": 1,
@@ -28,40 +28,18 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Student Home_get_student_by_id",
-              "name": "get_student_by_id",
+              "id": "Create Study Group_all_studygroups",
+              "name": "all_studygroups",
               "confirmBeforeExecute": false,
               "pluginType": "API",
-              "jsonPathKeys": [
-                "StudentID.text"
-              ],
-              "timeoutInMillisecond": 10000
-            },
-            {
-              "id": "Student Home_my_oh",
-              "name": "my_oh",
-              "confirmBeforeExecute": false,
-              "pluginType": "API",
-              "jsonPathKeys": [
-                "StudentID.text"
-              ],
-              "timeoutInMillisecond": 10000
-            },
-            {
-              "id": "Student Home_my_studygroups",
-              "name": "my_studygroups",
-              "confirmBeforeExecute": false,
-              "pluginType": "API",
-              "jsonPathKeys": [
-                "StudentID.text"
-              ],
+              "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             }
           ]
         ],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Student Home",
+        "id": "Create Study Group",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -72,5 +50,5 @@
     "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "656f9d51aa0c0576319ef9f8_6570ab986cd26a0f23750d1d"
+  "gitSyncId": "657217087e32382e55a9629e_657221877e32382e55a962de"
 }

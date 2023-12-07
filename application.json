@@ -23,6 +23,10 @@
     {
       "id": "Create OH",
       "isDefault": false
+    },
+    {
+      "id": "Create Study Group",
+      "isDefault": false
     }
   ],
   "viewMode": false,
