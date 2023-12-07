@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Join Group OH",
-    "slug": "join-group-oh",
+    "name": "Join Group Group or OH",
+    "slug": "join-group-group-or-oh",
     "layouts": [
       {
         "viewMode": false,
@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 480,
+          "bottomRow": 830,
           "containerStyle": "none",
           "snapRows": 54,
           "parentRowSpace": 1,
@@ -28,7 +28,15 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Join Group OH_all_oh",
+              "id": "Join Group Group or OH_all_groups",
+              "name": "all_groups",
+              "confirmBeforeExecute": false,
+              "pluginType": "API",
+              "jsonPathKeys": [],
+              "timeoutInMillisecond": 10000
+            },
+            {
+              "id": "Join Group Group or OH_all_oh",
               "name": "all_oh",
               "confirmBeforeExecute": false,
               "pluginType": "API",
@@ -39,7 +47,7 @@
         ],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Join Group OH",
+        "id": "Join Group Group or OH",
         "deleted": false,
         "policies": [],
         "userPermissions": []

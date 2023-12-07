@@ -7,7 +7,7 @@
       "name": "DEFAULT_REST_DATASOURCE",
       "pluginId": "restapi-plugin",
       "datasourceConfiguration": {
-        "url": "web:4000/attends-oh/create/"
+        "url": "web:4000/attends-oh/create"
       },
       "invalids": [],
       "messages": [],
@@ -16,7 +16,7 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "Join Group OH",
+    "pageId": "Join Group Group or OH",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
@@ -46,9 +46,6 @@
     "executeOnLoad": false,
     "dynamicBindingPathList": [
       {
-        "key": "path"
-      },
-      {
         "key": "body"
       }
     ],
@@ -65,7 +62,7 @@
     "policies": [],
     "userPermissions": []
   },
-  "id": "Join Group OH_join_oh",
+  "id": "Join Group Group or OH_join_oh",
   "deleted": false,
   "gitSyncId": "657217087e32382e55a9629e_65722a867e32382e55a962f5"
 }

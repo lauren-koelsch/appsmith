@@ -1,0 +1,4 @@
+{
+   "GroupID": {{groupid.text}},
+   "StudentID": {{student_id.text}}
+}
