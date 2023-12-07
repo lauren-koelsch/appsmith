@@ -42,9 +42,11 @@
     "isLoading": false,
     "mobileTopRow": 38,
     "responsiveBehavior": "hug",
+    "originalTopRow": 34,
     "disabledWhenInvalid": false,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 12,
+    "originalBottomRow": 38,
     "buttonVariant": "PRIMARY",
     "placement": "CENTER"
 }

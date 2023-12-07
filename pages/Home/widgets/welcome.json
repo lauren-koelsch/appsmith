@@ -30,7 +30,7 @@
     "text": "Welcome to StudyStage! 📚",
     "key": "x0stusmukt",
     "isDeprecated": false,
-    "rightColumn": 58,
+    "rightColumn": 64,
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "n14bkte2w2",
@@ -52,7 +52,7 @@
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 9,
     "maxDynamicHeight": 9000,
-    "originalBottomRow": 13,
+    "originalBottomRow": 19,
     "fontSize": "3rem",
     "minDynamicHeight": 4
 }
