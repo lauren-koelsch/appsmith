@@ -3,7 +3,7 @@
     "boxShadow": "none",
     "mobileBottomRow": 136,
     "widgetName": "Button4",
-    "onClick": "{{navigateTo('Join Group OH', {}, 'SAME_WINDOW');}}",
+    "onClick": "{{navigateTo('Join Group Group or OH', {}, 'SAME_WINDOW');}}",
     "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
     "displayName": "Button",
     "iconSVG": "/static/media/icon.05d209fafeb13a8569e3b4e97069d9ee.svg",
@@ -42,11 +42,11 @@
     "isLoading": false,
     "mobileTopRow": 132,
     "responsiveBehavior": "hug",
-    "originalTopRow": 132,
+    "originalTopRow": 136,
     "disabledWhenInvalid": false,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 28,
-    "originalBottomRow": 136,
+    "originalBottomRow": 140,
     "buttonVariant": "PRIMARY",
     "placement": "CENTER"
 }

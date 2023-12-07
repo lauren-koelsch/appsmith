@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 1960,
+          "bottomRow": 1400,
           "containerStyle": "none",
           "snapRows": 54,
           "parentRowSpace": 1,
@@ -26,16 +26,6 @@
           "leftColumn": 0
         },
         "layoutOnLoadActions": [
-          [
-            {
-              "id": "Student Home_all_oh",
-              "name": "all_oh",
-              "confirmBeforeExecute": false,
-              "pluginType": "API",
-              "jsonPathKeys": [],
-              "timeoutInMillisecond": 10000
-            }
-          ],
           [
             {
               "id": "Student Home_get_student_by_id",
