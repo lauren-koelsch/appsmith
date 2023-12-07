@@ -1,0 +1,6 @@
+{
+    "CourseCode": {{oh_coursecode.text}},
+    "End_Time": {{oh_endtime.text}},
+    "Start_Time": {{oh_starttime.text}},
+    "TA_ID": {{oh_taid.text}}
+  }
