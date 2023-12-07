@@ -8,8 +8,8 @@
         "paragraph",
         "label"
     ],
-    "topRow": 36,
-    "bottomRow": 44,
+    "topRow": 32,
+    "bottomRow": 37,
     "parentRowSpace": 10,
     "type": "TEXT_WIDGET",
     "hideCard": false,
@@ -19,7 +19,7 @@
     "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
     "parentColumnSpace": 11.796875,
     "dynamicTriggerPathList": [],
-    "leftColumn": 3,
+    "leftColumn": 2,
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "fontFamily"},
@@ -31,7 +31,7 @@
     "text": "Hi, {{student_table.selectedRow.FirstName}}!",
     "key": "wrq3bojd9a",
     "isDeprecated": false,
-    "rightColumn": 19,
+    "rightColumn": 46,
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "i0z9crv9qm",
@@ -49,11 +49,11 @@
     "isLoading": false,
     "mobileTopRow": 24,
     "responsiveBehavior": "fill",
-    "originalTopRow": 36,
+    "originalTopRow": 32,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 2,
     "maxDynamicHeight": 9000,
-    "originalBottomRow": 44,
+    "originalBottomRow": 37,
     "fontSize": "1.875rem",
     "minDynamicHeight": 4
 }

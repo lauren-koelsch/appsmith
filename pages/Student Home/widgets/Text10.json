@@ -8,8 +8,8 @@
         "paragraph",
         "label"
     ],
-    "topRow": 130,
-    "bottomRow": 135,
+    "topRow": 52,
+    "bottomRow": 56,
     "parentRowSpace": 10,
     "type": "TEXT_WIDGET",
     "hideCard": false,
@@ -19,7 +19,7 @@
     "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
     "parentColumnSpace": 11.796875,
     "dynamicTriggerPathList": [],
-    "leftColumn": 4,
+    "leftColumn": 2,
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "fontFamily"},
@@ -30,7 +30,7 @@
     "text": "Looking to find a buddy?",
     "key": "wnn03pmfjq",
     "isDeprecated": false,
-    "rightColumn": 20,
+    "rightColumn": 22,
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "vbiu1ullkm",
@@ -48,11 +48,11 @@
     "isLoading": false,
     "mobileTopRow": 126,
     "responsiveBehavior": "fill",
-    "originalTopRow": 130,
+    "originalTopRow": 89,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 4,
     "maxDynamicHeight": 9000,
-    "originalBottomRow": 135,
+    "originalBottomRow": 93,
     "fontSize": "1rem",
     "minDynamicHeight": 4
 }

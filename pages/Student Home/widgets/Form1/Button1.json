@@ -12,14 +12,14 @@
         "click",
         "submit"
     ],
-    "topRow": 10,
-    "bottomRow": 14,
+    "topRow": 7,
+    "bottomRow": 11,
     "type": "BUTTON_WIDGET",
     "hideCard": false,
     "mobileRightColumn": 62,
     "animateLoading": true,
     "dynamicTriggerPathList": [{"key": "onClick"}],
-    "leftColumn": 31,
+    "leftColumn": 29,
     "dynamicBindingPathList": [
         {"key": "buttonColor"},
         {"key": "borderRadius"}
@@ -28,7 +28,7 @@
     "isDisabled": false,
     "key": "0iye0233yw",
     "isDeprecated": false,
-    "rightColumn": 49,
+    "rightColumn": 47,
     "isDefaultClickDisabled": true,
     "widgetId": "room3cwxpv",
     "minWidth": 120,
