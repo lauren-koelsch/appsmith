@@ -3,7 +3,7 @@
     "boxShadow": "none",
     "mobileBottomRow": 104,
     "widgetName": "Button2",
-    "onClick": "{{navigateTo(\"\", {}, 'SAME_WINDOW')}}",
+    "onClick": "{{navigateTo('Create OH', {}, 'SAME_WINDOW');}}",
     "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
     "dynamicPropertyPathList": [],
     "displayName": "Button",
@@ -43,9 +43,11 @@
     "isLoading": false,
     "mobileTopRow": 100,
     "responsiveBehavior": "hug",
+    "originalTopRow": 95,
     "disabledWhenInvalid": false,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 31,
+    "originalBottomRow": 99,
     "buttonVariant": "PRIMARY",
     "placement": "CENTER"
 }
