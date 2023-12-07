@@ -25,7 +25,7 @@
         {"key": "buttonColor"},
         {"key": "borderRadius"}
     ],
-    "text": "Teacher 🧑\u200d🏫",
+    "text": "Professor 🧑\u200d🏫",
     "isDisabled": false,
     "key": "aakv8ziyly",
     "isDeprecated": false,
@@ -42,11 +42,11 @@
     "isLoading": false,
     "mobileTopRow": 38,
     "responsiveBehavior": "hug",
-    "originalTopRow": 34,
+    "originalTopRow": 28,
     "disabledWhenInvalid": false,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 12,
-    "originalBottomRow": 38,
+    "originalBottomRow": 32,
     "buttonVariant": "PRIMARY",
     "placement": "CENTER"
 }
