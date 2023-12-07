@@ -1,11 +1,11 @@
 {
     "boxShadow": "none",
     "iconSVG": "/static/media/icon.f2c34197dbcf03595098986de898928f.svg",
-    "topRow": 15,
+    "topRow": 17,
     "labelWidth": 5,
     "type": "INPUT_WIDGET_V2",
     "animateLoading": true,
-    "resetOnSubmit": true,
+    "resetOnSubmit": false,
     "leftColumn": 27,
     "dynamicBindingPathList": [
         {"key": "accentColor"},
@@ -27,7 +27,7 @@
     "isLoading": false,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileBottomRow": 22,
-    "widgetName": "new_assignment",
+    "widgetName": "assignment_taid",
     "displayName": "Input",
     "searchTags": [
         "form",
@@ -35,7 +35,7 @@
         "number",
         "textarea"
     ],
-    "bottomRow": 22,
+    "bottomRow": 24,
     "parentRowSpace": 10,
     "autoFocus": false,
     "hideCard": false,

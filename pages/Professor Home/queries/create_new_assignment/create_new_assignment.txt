@@ -1,0 +1,7 @@
+{
+    "CourseCode": {{assignment_coursecode.text}},
+    "Description": {{assignment_description.text}},
+    "InGroups": {{assignment_ingroups.text}},
+    "TA_ID": {{assignment_taid.text}},
+    "Title": {{assignment_title.text}}
+}
