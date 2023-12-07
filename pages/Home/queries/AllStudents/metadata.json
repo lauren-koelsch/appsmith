@@ -16,7 +16,7 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "Page1",
+    "pageId": "Home",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
@@ -48,7 +48,7 @@
     "userPermissions": [],
     "createdAt": "2023-12-06T01:17:49Z"
   },
-  "id": "Page1_AllStudents",
+  "id": "Home_AllStudents",
   "deleted": false,
   "gitSyncId": "656fa22035f0045611dfdddd_656fa31c35f0045611dfdde1"
 }
