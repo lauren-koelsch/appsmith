@@ -1,11 +1,12 @@
 {
     "boxShadow": "none",
     "iconSVG": "/static/media/icon.f2c34197dbcf03595098986de898928f.svg",
+    "onSubmit": "{{storeValue('class_subject', 'class_subject.text');}}",
     "topRow": 8,
     "labelWidth": 5,
     "type": "INPUT_WIDGET_V2",
     "animateLoading": true,
-    "resetOnSubmit": true,
+    "resetOnSubmit": false,
     "leftColumn": 30,
     "dynamicBindingPathList": [
         {"key": "accentColor"},
@@ -42,7 +43,7 @@
     "hideCard": false,
     "mobileRightColumn": 22,
     "parentColumnSpace": 6.507568359375,
-    "dynamicTriggerPathList": [],
+    "dynamicTriggerPathList": [{"key": "onSubmit"}],
     "labelPosition": "Top",
     "key": "q538lytmi9",
     "labelTextSize": "0.875rem",
