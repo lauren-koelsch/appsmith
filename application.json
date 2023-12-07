@@ -19,6 +19,10 @@
     {
       "id": "Create Class",
       "isDefault": false
+    },
+    {
+      "id": " Create Office Hours",
+      "isDefault": false
     }
   ],
   "viewMode": false,

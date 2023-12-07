@@ -1,0 +1,43 @@
+{
+  "unpublishedPage": {
+    "name": " Create Office Hours",
+    "slug": "create-office-hours",
+    "layouts": [
+      {
+        "viewMode": false,
+        "dsl": {
+          "widgetName": "MainContainer",
+          "backgroundColor": "none",
+          "rightColumn": 1224,
+          "snapColumns": 64,
+          "detachFromLayout": true,
+          "widgetId": "0",
+          "topRow": 0,
+          "bottomRow": 590,
+          "containerStyle": "none",
+          "snapRows": 71,
+          "parentRowSpace": 1,
+          "type": "CANVAS_WIDGET",
+          "canExtend": true,
+          "version": 87,
+          "minHeight": 730,
+          "parentColumnSpace": 1,
+          "dynamicBindingPathList": [],
+          "leftColumn": 0
+        },
+        "layoutOnLoadActions": [],
+        "layoutOnLoadActionErrors": [],
+        "validOnPageLoadActions": true,
+        "id": " Create Office Hours",
+        "deleted": false,
+        "policies": [],
+        "userPermissions": []
+      }
+    ],
+    "userPermissions": [],
+    "policies": [],
+    "isHidden": false
+  },
+  "deleted": false,
+  "gitSyncId": "65721ccfc94e54174982c743_65721d21c94e54174982c75f"
+}

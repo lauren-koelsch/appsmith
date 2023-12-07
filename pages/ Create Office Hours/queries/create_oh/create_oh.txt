@@ -1,0 +1,9 @@
+{{
+{
+    "CourseCode": "CHEM102",
+    "End_Time": "16:58:00",
+    "OfficeHoursID": 1,
+    "Start_Time": "5:06:00",
+    "TA_ID": 35
+  },
+}}
