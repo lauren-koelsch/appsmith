@@ -52,8 +52,7 @@
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],
-    "userPermissions": [],
-    "createdAt": "2023-12-06T18:10:50Z"
+    "userPermissions": []
   },
   "id": "Student Home_my_studygroups",
   "deleted": false,
