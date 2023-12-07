@@ -63,7 +63,7 @@
     "positioning": "fixed",
     "flexVerticalAlignment": "stretch",
     "key": "jztqbeqgss",
-    "backgroundColor": "#FFFFFF",
+    "backgroundColor": "#ffffff",
     "isDeprecated": false,
     "rightColumn": 40,
     "dynamicHeight": "FIXED",
@@ -76,10 +76,10 @@
     "isLoading": false,
     "mobileTopRow": 29,
     "responsiveBehavior": "fill",
-    "originalTopRow": 16,
+    "originalTopRow": 19,
     "borderRadius": "1.5rem",
     "mobileLeftColumn": 0,
     "maxDynamicHeight": 9000,
-    "originalBottomRow": 34,
+    "originalBottomRow": 32,
     "minDynamicHeight": 10
 }

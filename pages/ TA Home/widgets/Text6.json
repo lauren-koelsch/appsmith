@@ -19,7 +19,7 @@
     "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
     "parentColumnSpace": 16.296875,
     "dynamicTriggerPathList": [],
-    "leftColumn": 1,
+    "leftColumn": 2,
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "fontFamily"},
@@ -30,7 +30,7 @@
     "text": "TA Home",
     "key": "x0stusmukt",
     "isDeprecated": false,
-    "rightColumn": 40,
+    "rightColumn": 41,
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "fuiwqx009r",

@@ -4,7 +4,7 @@
     "mobileBottomRow": 37,
     "widgetName": "Button1",
     "onClick": "{{(() => {\n\tget_student_by_id.run();\n\tmy_oh.run();\n\tmy_studygroups.run();\n})()}}",
-    "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+    "buttonColor": "#db2777",
     "dynamicPropertyPathList": [{"key": "onClick"}],
     "displayName": "Button",
     "iconSVG": "/static/media/icon.05d209fafeb13a8569e3b4e97069d9ee.svg",
@@ -20,10 +20,7 @@
     "animateLoading": true,
     "dynamicTriggerPathList": [{"key": "onClick"}],
     "leftColumn": 29,
-    "dynamicBindingPathList": [
-        {"key": "buttonColor"},
-        {"key": "borderRadius"}
-    ],
+    "dynamicBindingPathList": [{"key": "borderRadius"}],
     "text": "Submit",
     "isDisabled": false,
     "key": "0iye0233yw",
