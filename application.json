@@ -5,18 +5,6 @@
       "isDefault": true
     },
     {
-      "id": "Professor 2",
-      "isDefault": false
-    },
-    {
-      "id": "Professor 3",
-      "isDefault": false
-    },
-    {
-      "id": "Professor 1",
-      "isDefault": false
-    },
-    {
       "id": "Create Study Group",
       "isDefault": false
     }
