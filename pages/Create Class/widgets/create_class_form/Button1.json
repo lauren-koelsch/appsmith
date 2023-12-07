@@ -1,9 +1,11 @@
 {
-    "resetFormOnClick": true,
+    "resetFormOnClick": false,
     "boxShadow": "none",
     "mobileBottomRow": 37,
     "widgetName": "Button1",
+    "onClick": "{{create_class.run()}}",
     "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+    "dynamicPropertyPathList": [{"key": "onClick"}],
     "displayName": "Button",
     "iconSVG": "/static/media/icon.05d209fafeb13a8569e3b4e97069d9ee.svg",
     "searchTags": [
@@ -16,6 +18,7 @@
     "hideCard": false,
     "mobileRightColumn": 62,
     "animateLoading": true,
+    "dynamicTriggerPathList": [{"key": "onClick"}],
     "leftColumn": 31,
     "dynamicBindingPathList": [
         {"key": "buttonColor"},

@@ -1,0 +1,11 @@
+{
+    "CourseCode": {{class_coursecode.text}},
+    "Days_of_Week": {{class_dow.text}},
+    "Description": {{class_description.text}},
+    "EndTime": {{class_endtime.text}},
+    "FacultyID": {{class_facultyid.text}},
+    "NumStudentsEnrolled": {{class_nse.text}},
+    "StartTime": {{class_starttime.text}},
+    "Subject": {{class_subject.text}},
+    "Title": {{class_title.text}}
+  }

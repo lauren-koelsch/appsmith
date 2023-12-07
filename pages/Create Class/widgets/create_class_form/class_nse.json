@@ -14,7 +14,7 @@
     "labelStyle": "",
     "inputType": "NUMBER",
     "isDisabled": false,
-    "isRequired": true,
+    "isRequired": false,
     "dynamicHeight": "FIXED",
     "accentColor": "{{appsmith.theme.colors.primaryColor}}",
     "showStepArrows": false,
