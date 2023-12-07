@@ -1,0 +1,5 @@
+{
+    "AssignmentID": {{assignment_id.text}},
+    "OfficeHoursID": {{table_all_oh.selectedRow.OfficeHoursID}},
+    "StudentID": {{student_id.text}}
+}

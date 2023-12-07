@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Professor Home",
-    "slug": "professor-home",
+    "name": "Join Group OH",
+    "slug": "join-group-oh",
     "layouts": [
       {
         "viewMode": false,
@@ -13,14 +13,14 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 1550,
+          "bottomRow": 480,
           "containerStyle": "none",
-          "snapRows": 72,
+          "snapRows": 54,
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
           "version": 87,
-          "minHeight": 740,
+          "minHeight": 560,
           "parentColumnSpace": 1,
           "dynamicBindingPathList": [],
           "leftColumn": 0
@@ -28,30 +28,18 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Professor Home_get_prof_by_id",
-              "name": "get_prof_by_id",
+              "id": "Join Group OH_all_oh",
+              "name": "all_oh",
               "confirmBeforeExecute": false,
               "pluginType": "API",
-              "jsonPathKeys": [
-                "ProfID.text"
-              ],
-              "timeoutInMillisecond": 10000
-            },
-            {
-              "id": "Professor Home_prof_classes",
-              "name": "prof_classes",
-              "confirmBeforeExecute": false,
-              "pluginType": "API",
-              "jsonPathKeys": [
-                "ProfID.text"
-              ],
+              "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             }
           ]
         ],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Professor Home",
+        "id": "Join Group OH",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -62,5 +50,5 @@
     "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "656fcbbd42b5450d04d236e9_65712c408d8a482755cc970a"
+  "gitSyncId": "657217087e32382e55a9629e_65722a297e32382e55a962eb"
 }

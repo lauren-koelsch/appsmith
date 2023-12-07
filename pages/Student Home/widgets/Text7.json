@@ -8,8 +8,8 @@
         "paragraph",
         "label"
     ],
-    "topRow": 136,
-    "bottomRow": 140,
+    "topRow": 154,
+    "bottomRow": 159,
     "parentRowSpace": 10,
     "type": "TEXT_WIDGET",
     "hideCard": false,
@@ -19,7 +19,7 @@
     "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
     "parentColumnSpace": 11.796875,
     "dynamicTriggerPathList": [],
-    "leftColumn": 9,
+    "leftColumn": 3,
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "fontFamily"},
@@ -30,7 +30,7 @@
     "text": "Join an OH\n",
     "key": "wnn03pmfjq",
     "isDeprecated": false,
-    "rightColumn": 25,
+    "rightColumn": 19,
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "62qhkuiaa5",
@@ -48,11 +48,11 @@
     "isLoading": false,
     "mobileTopRow": 136,
     "responsiveBehavior": "fill",
-    "originalTopRow": 136,
+    "originalTopRow": 150,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 9,
     "maxDynamicHeight": 9000,
-    "originalBottomRow": 140,
-    "fontSize": "1rem",
+    "originalBottomRow": 155,
+    "fontSize": "1.875rem",
     "minDynamicHeight": 4
 }

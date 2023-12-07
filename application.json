@@ -27,6 +27,10 @@
     {
       "id": "Create Study Group",
       "isDefault": false
+    },
+    {
+      "id": "Join Group OH",
+      "isDefault": false
     }
   ],
   "viewMode": false,
