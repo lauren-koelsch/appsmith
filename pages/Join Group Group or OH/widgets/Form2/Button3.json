@@ -19,7 +19,7 @@
     "mobileRightColumn": 62,
     "animateLoading": true,
     "dynamicTriggerPathList": [{"key": "onClick"}],
-    "leftColumn": 39,
+    "leftColumn": 42,
     "dynamicBindingPathList": [
         {"key": "buttonColor"},
         {"key": "borderRadius"}
