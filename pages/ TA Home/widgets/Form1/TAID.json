@@ -2,7 +2,7 @@
     "boxShadow": "none",
     "iconSVG": "/static/media/icon.f2c34197dbcf03595098986de898928f.svg",
     "onSubmit": "{{storeValue('TA_ID', 'TAID.txt');}}",
-    "topRow": 5,
+    "topRow": 4,
     "labelWidth": 5,
     "type": "INPUT_WIDGET_V2",
     "animateLoading": true,
@@ -37,7 +37,7 @@
         "number",
         "textarea"
     ],
-    "bottomRow": 12,
+    "bottomRow": 11,
     "parentRowSpace": 10,
     "autoFocus": false,
     "hideCard": false,

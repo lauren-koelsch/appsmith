@@ -8,8 +8,8 @@
         "paragraph",
         "label"
     ],
-    "topRow": 47,
-    "bottomRow": 52,
+    "topRow": 45,
+    "bottomRow": 50,
     "parentRowSpace": 10,
     "type": "TEXT_WIDGET",
     "hideCard": false,
@@ -19,7 +19,7 @@
     "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
     "parentColumnSpace": 11.796875,
     "dynamicTriggerPathList": [],
-    "leftColumn": 6,
+    "leftColumn": 2,
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "fontFamily"},
@@ -30,7 +30,7 @@
     "text": "Join a Study Group\n",
     "key": "wnn03pmfjq",
     "isDeprecated": false,
-    "rightColumn": 43,
+    "rightColumn": 30,
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "k8oz4h5jew",
@@ -48,11 +48,11 @@
     "isLoading": false,
     "mobileTopRow": 136,
     "responsiveBehavior": "fill",
-    "originalTopRow": 47,
+    "originalTopRow": 45,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 9,
     "maxDynamicHeight": 9000,
-    "originalBottomRow": 52,
+    "originalBottomRow": 50,
     "fontSize": "1.875rem",
     "minDynamicHeight": 4
 }

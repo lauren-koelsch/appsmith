@@ -1,16 +1,15 @@
 {
     "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
     "borderColor": "#E0DEDE",
-    "isVisibleDownload": true,
+    "isVisibleDownload": false,
     "iconSVG": "/static/media/icon.e6911f8bb94dc6c4a102a74740c41763.svg",
-    "topRow": 60,
+    "topRow": 56,
     "isSortable": true,
     "type": "TABLE_WIDGET_V2",
     "inlineEditingSaveOption": "ROW_LEVEL",
     "animateLoading": true,
     "dynamicBindingPathList": [
         {"key": "accentColor"},
-        {"key": "borderRadius"},
         {"key": "boxShadow"},
         {"key": "tableData"},
         {"key": "primaryColumns.CourseCode.computedValue"},
@@ -21,7 +20,7 @@
         {"key": "defaultSearchText"}
     ],
     "needsHeightForContent": true,
-    "leftColumn": 18,
+    "leftColumn": 20,
     "delimiter": ",",
     "defaultSelectedRowIndex": 0,
     "flexVerticalAlignment": "start",
@@ -59,9 +58,9 @@
             "discardButtonColor": "{{appsmith.theme.colors.primaryColor}}"
         }
     },
-    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "borderRadius": "0.375rem",
     "columnUpdatedAt": 1701900180828,
-    "originalBottomRow": 93,
+    "originalBottomRow": 89,
     "defaultSelectedRowIndices": [0],
     "mobileBottomRow": 77,
     "widgetName": "Table2",
@@ -75,8 +74,11 @@
     ],
     "dynamicPropertyPathList": [{"key": "isVisibleFilters"}],
     "displayName": "Table",
-    "bottomRow": 93,
-    "columnWidthMap": {"OfficeHoursID": 158},
+    "bottomRow": 89,
+    "columnWidthMap": {
+        "Start_Time": 125,
+        "OfficeHoursID": 158
+    },
     "parentRowSpace": 10,
     "hideCard": false,
     "mobileRightColumn": 64,
@@ -244,7 +246,7 @@
     "key": "kq3vffvyls",
     "canFreezeColumn": true,
     "isDeprecated": false,
-    "rightColumn": 63,
+    "rightColumn": 64,
     "textSize": "0.875rem",
     "widgetId": "cxfupezfkj",
     "minWidth": 450,
@@ -257,7 +259,7 @@
     "horizontalAlignment": "LEFT",
     "isVisibleSearch": true,
     "responsiveBehavior": "fill",
-    "originalTopRow": 60,
+    "originalTopRow": 56,
     "mobileLeftColumn": 31,
     "isVisiblePagination": true,
     "verticalAlignment": "CENTER"
