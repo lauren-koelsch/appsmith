@@ -20,16 +20,16 @@
     "animateLoading": true,
     "parentColumnSpace": 16.296875,
     "dynamicTriggerPathList": [{"key": "onClick"}],
-    "leftColumn": 36,
+    "leftColumn": 38,
     "dynamicBindingPathList": [
         {"key": "buttonColor"},
         {"key": "borderRadius"}
     ],
-    "text": "TA 💀",
+    "text": "TA 🩵",
     "isDisabled": false,
     "key": "aakv8ziyly",
     "isDeprecated": false,
-    "rightColumn": 46,
+    "rightColumn": 48,
     "isDefaultClickDisabled": true,
     "widgetId": "a9tludbw95",
     "minWidth": 120,
@@ -46,7 +46,7 @@
     "disabledWhenInvalid": false,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 10,
-    "originalBottomRow": 25,
+    "originalBottomRow": 26,
     "buttonVariant": "PRIMARY",
     "placement": "CENTER"
 }

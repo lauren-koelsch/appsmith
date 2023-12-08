@@ -29,7 +29,7 @@
       ],
       "encodeParamsToggle": true,
       "queryParameters": [],
-      "body": "{\n    \"CourseCode\": {{assignment_coursecode.text}},\n    \"Description\": {{assignment_description.text}},\n    \"InGroups\": {{assignment_ingroups.text}},\n    \"TA_ID\": {{assignment_taid.text}},\n    \"Title\": {{assignment_title.text}}\n}",
+      "body": "{\n    \"CourseCode\": {{assignment_coursecode.text}},\n    \"Description\": {{assignment_description.text}},\n    \"InGroups\": {{Form2.data.ingroups_check === true ? 1 : 0}},\n    \"TA_ID\": {{assignment_taid.text}},\n    \"Title\": {{assignment_title.text}}\n}",
       "bodyFormData": [],
       "httpMethod": "POST",
       "selfReferencingDataPaths": [],
@@ -39,7 +39,7 @@
         }
       ],
       "formData": {
-        "apiContentType": "none"
+        "apiContentType": "application/json"
       }
     },
     "executeOnLoad": false,
@@ -52,9 +52,9 @@
     "invalids": [],
     "messages": [],
     "jsonPathKeys": [
+      "Form2.data.ingroups_check === true ? 1 : 0",
       "assignment_coursecode.text",
       "assignment_description.text",
-      "assignment_ingroups.text",
       "assignment_taid.text",
       "assignment_title.text"
     ],
