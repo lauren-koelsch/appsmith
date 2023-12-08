@@ -23,7 +23,7 @@
     "onCheckChange": "",
     "isDisabled": false,
     "key": "d6bltt6i6x",
-    "isRequired": true,
+    "isRequired": false,
     "isDeprecated": false,
     "rightColumn": 23,
     "dynamicHeight": "AUTO_HEIGHT",
